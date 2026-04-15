@@ -1,0 +1,35 @@
+class Factoriel {
+
+   void fact(int n){
+	int A = 3 + 2*3 + 5/5;
+	int C = A * 80 + 2;
+	int B = A*80 - 5;
+        B = 1;
+	int D = 7*6/10;
+	int H = 0;
+	int Z = B + 5;
+	int F, S, T;
+	H = A + B;
+	Z = C * D;
+	//A = 5;
+	F = A + B;
+	S = F * T;
+
+	int s = 3 + 2*3 + 5/5;
+        int d = s + 2 * 1 - 0 + 1 - 1;
+
+	int a = 5*0/2/3 - 7;
+	int z = a / 2*0*7 - 0*4*6 + 4*a; 
+     	a = 3 + 2*3 + 5/5;
+	int c = a+ 1 - 1 + 0;
+        int d = a + 2 * 1 - 0;	
+	int h = a;
+        a = 4;
+	d = h * d; 
+	int x= d;
+	x= a;
+	int f= x + c;
+
+  }  
+
+}
